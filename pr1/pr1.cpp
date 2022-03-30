@@ -11,6 +11,6 @@ int main()
 	cin >> a >> b;
 	c = pow(a, b);
 	float d;
-	d = c / a;
+	d = c // a;
 	cout << "c = /n" << c << "d = " << d;
 }
