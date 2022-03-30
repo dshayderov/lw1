@@ -10,5 +10,7 @@ int main()
 	cout << "Введите a и b: ";
 	cin >> a >> b;
 	c = pow(a, b);
-	cout << "c = " << c;
+	float d;
+	d = c / a;
+	cout << "c = /n" << c << "d = " << d;
 }
