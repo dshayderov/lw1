@@ -9,6 +9,6 @@ int main()
 	float c;
 	cout << "Введите a и b: ";
 	cin >> a >> b;
-	c = a * b+b;
+	c = pow(a, b);
 	cout << "c = " << c;
 }
