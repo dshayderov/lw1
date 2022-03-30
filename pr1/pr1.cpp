@@ -12,5 +12,5 @@ int main()
 	c = pow(a, b);
 	float d;
 	d = c // a;
-	cout << "c = /n" << c << "d = " << d;
+	cout << "Результаты вычислений /n" << "c = / n" << c << "d = " << d;
 }
