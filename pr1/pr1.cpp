@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-	int a = 5;
-	int b = 7;
-	int c;
-	c = a + b;
+	float a = 5;
+	float b = 9;
+	float c;
+	c = a * b+b;
 	cout << "c = " << c;
 }
